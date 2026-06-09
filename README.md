@@ -1,5 +1,7 @@
 # 💫 About Me:
-Right now im working on church central, a plattform to centralize information flow of a church. i'm currently seeking an internship andhave jsut finished my theoretical education in app development at benedict zurich
+🚀 Current Focus: Building Church Central, a web application to centralize internal communication and workflows.
+🎓 Status: Just finished my theoretical IT training at Bénédict Zürich.
+🔍 Looking for: an internship in application development.
 
 
 ## 🌐 Socials:
