@@ -1,7 +1,7 @@
-# 💫 About Me:
-🚀 Current Focus: Building Church Central, a web application to centralize internal communication and workflows.
-🎓 Status: Just finished my theoretical IT training at Bénédict Zürich.
-🔍 Looking for: an internship in application development.
+# About Me:
+Current Focus: Building ApplyMe, a job hunting tool meant to facilitate the aplication process.
+Status: Just finished my theoretical IT training at Bénédict Zürich.
+Looking for: an internship in application development.
 
 
 ## 🌐 Socials:
