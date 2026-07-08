@@ -1,6 +1,8 @@
 # About Me:
 Current Focus: Building ApplyMe, a job hunting tool meant to facilitate the aplication process.
+
 Status: Just finished my theoretical IT training at Bénédict Zürich.
+
 Looking for: an internship in application development.
 
 
